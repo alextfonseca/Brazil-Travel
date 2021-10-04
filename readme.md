@@ -35,7 +35,7 @@ $ yarn start ou npm start
 
 ## 🧾 Acessando o projeto
 
-# <a href="https://travel-zeta.vercel.app">Clique aqui</a>
+# <a href="https://brazil-travel.vercel.app">Clique aqui</a>
 
 ## 🧑‍💻 Criador
 
