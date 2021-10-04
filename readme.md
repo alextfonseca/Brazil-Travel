@@ -18,7 +18,7 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-git@github.com:alextfonseca/Brazil-Travel.git
+https://github.com/alextfonseca/Brazil-Travel.git
 $ cd travel
 $ yarn install ou npm install
 $ yarn start ou npm start
@@ -27,7 +27,7 @@ $ yarn start ou npm start
 Windows:
 
 ```bash
-git@github.com:alextfonseca/Brazil-Travel.git
+https://github.com/alextfonseca/Brazil-Travel.git
 $ cd travel
 $ yarn install ou npm install
 $ yarn start ou npm start
