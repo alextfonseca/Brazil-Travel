@@ -1,0 +1,30 @@
+.cityCard {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  span {
+    background: var(--white);
+    width: 100%;
+
+    font-size: 1.4rem;
+
+    border-radius: 0 0 0.5rem 0.5rem;
+
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+
+    padding: 1.5rem;
+  }
+
+  img {
+    width: 100%;
+
+    border-radius: 0.5rem 0.5rem 0 0;
+  }
+
+  transition: 0.3s;
+
+  &:hover {
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+  }
+}

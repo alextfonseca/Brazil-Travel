@@ -5,13 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "server": "json-server server.json -w -d 750 -p 3333",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.22.0",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sass": "^1.42.1"
   },
   "devDependencies": {
     "@types/react": "17.0.24",
